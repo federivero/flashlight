@@ -16,7 +16,11 @@ flashlight();
 
 And that's it! Here's what you get:
 
-
+![Demo](https://github.com/federivero/flashlight/blob/master/demo.gif)
 
 ## Options
 
+* Radius: Controls the radius of the flashlight
+* More to come...
+
+If you have any questions or suggestions, please contact me on Twitter (@soyBatu) or drop me a line at frivero at randomit dot com.
