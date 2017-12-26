@@ -4,15 +4,19 @@ Flashlight.js is a really simple pluggin that converts the site into an explorat
 
 Install and configuration are purposely simple. Just import the flashlight.js file:
 
+```javascript
 <script src="flashlight.js"> </script>
+```
 
 And call the initialization funtion: 
 
+```javascript
 flashlight();
+```
 
 And that's it! Here's what you get:
 
 
 
-# Options
+## Options
 
